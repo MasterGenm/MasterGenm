@@ -1,4 +1,5 @@
 <h2> (,,･∀･)ﾉ゛Hello👋 欢迎来到我的世界   </h2>
+https://github.com/user-attachments/assets/570073b1-93c3-41d8-9835-fd248a6d778b
 
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.75)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)          
 ## About Me
@@ -10,11 +11,12 @@
 - 🤔 I’m looking for help with classmates.
 - 💬 Ask me about nothing.（我啥也不会）
 - 📫 How to reach me: WECHAT or QQ.
-- 😄 Pronouns: 欢迎互关！
+- 😄 Pronouns: 欢迎来找我玩！
 - ⚡ Fun fact: 我是个无趣的人。
 
+
                                              
-https://github.com/user-attachments/assets/570073b1-93c3-41d8-9835-fd248a6d778b
+
 ## Tools
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
