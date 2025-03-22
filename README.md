@@ -14,10 +14,10 @@ https://github.com/user-attachments/assets/570073b1-93c3-41d8-9835-fd248a6d778b
 - 🔭 I’m currently studying in DUFE.
 - 🌱 I’m currently learning Fintech.
 - 👯 I’m looking to collaborate on ？
-- 🤔 I’m looking for help with classmates.
-- 💬 Ask me about nothing.（我啥也不会）
+- 🤔 I’m looking for help with Deepseek.
+- 💬 Ask me about nothing.
 - 📫 How to reach me: WECHAT or QQ.
-- 😄 Pronouns: 欢迎来找我玩！
+- 😄 Pronouns: 欢迎交流！
 - ⚡ Fun fact: 我是个无趣的人。
 
 
