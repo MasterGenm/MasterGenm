@@ -1,4 +1,4 @@
-<h2> (,,･∀･)ﾉ゛Hello👋 欢迎来到我的世界   </h2>
+<h2> (,,･∀･)ﾉ゛Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />欢迎来到我的世界   </h2>
 
 https://github.com/user-attachments/assets/570073b1-93c3-41d8-9835-fd248a6d778b
 
