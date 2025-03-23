@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/570073b1-93c3-41d8-9835-fd248a6d778b
 ## About Me
 [![](https://img.shields.io/github/stars/MasterGenm?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=MasterGenm&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/MasterGenm?color=27da6b&logo=Handshake)](https://github.com/MasterGenm?tab=followers)
+
 ![bili_v_1742715518279](https://github.com/user-attachments/assets/1c370afc-8ee8-415e-9140-caa7abe963d5)
 
 - 🔭 I’m currently studying in DUFE.
